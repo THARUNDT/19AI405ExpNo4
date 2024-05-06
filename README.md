@@ -49,7 +49,10 @@
     end (while loop)
 
 ``````
+##Program:
+```
 
+```
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
